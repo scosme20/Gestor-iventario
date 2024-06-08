@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de um README para o projeto de gestão de inventário usando Nest.js e TypeScript:
-
----
-
 # Projeto de Gestão de Inventário
 
 Este projeto é um sistema de gestão de inventário desenvolvido utilizando Nest.js e TypeScript. O objetivo do sistema é fornecer funcionalidades para gerenciar produtos, fornecedores e pedidos, aplicando princípios de boas práticas de desenvolvimento como SOLID, DDD, e uma estrutura modular bem definida.
